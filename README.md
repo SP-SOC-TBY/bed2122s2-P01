@@ -2,6 +2,9 @@
 
 BED Practical 01
 
+Name: ABC
+ID: 0123456
+
 mkdir node-playground;
 cd node-playground;
 npm init;
